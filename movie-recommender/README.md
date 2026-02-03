@@ -130,7 +130,7 @@ This project is intentionally kept **simple and transparent** to highlight core 
 
 ---
 
-## 👤 Author
+## 👤 Developer
 
 **Hamed Rostamkhani**  
 Background in software engineering with a growing focus on **Data Science & Machine Learning**.
