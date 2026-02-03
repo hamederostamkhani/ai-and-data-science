@@ -3,7 +3,7 @@
 A simple yet well-structured **movie recommendation system** built using real-world user ratings data.  
 This project demonstrates my understanding of **data exploration**, **data preprocessing**, and **collaborative filtering techniques** commonly used in recommender systems.
 
-![result.PNG](images/result.PNG)
+![result.PNG](images/result.jpg)
 
 ---
 
