@@ -152,8 +152,10 @@ streamlit run src/app.py
 Clone the repository:
 
 ```bash
-git clone <repo_url>
-cd heart-disease-prediction
+git clone https://github.com/hamederostamkhani/ai-and-data-science.git
+
+cd ai-and-data-science/heart-disease-prediction # Linux / Mac
+cd ai-and-data-science\heart-disease-prediction # Windows
 ```
 
 Create virtual environment (optional but recommended):
